@@ -1,2 +1,9 @@
 [project]
 name = "bg_localization"
+version = "0.0.1"
+description = "Bulgarian Localization"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["bg_localization"]
+include-package-data = true
